@@ -1,0 +1,23 @@
+#updown {
+  height: 100%;
+  width:  5%;
+  top: 0px;
+  right: 0px;
+  position: fixed;
+  cursor: pointer;
+  min-width:60px; 
+}
+
+
+#updown.up {
+  background: url(../images/up.png) ; 
+  background-repeat: no-repeat;
+}
+
+#updown.down {
+  background: url(../images/down.png) ;
+  background-repeat: no-repeat;
+}
+
+#updown.up:hover {opacity: 0.5;}
+#updown.down:hover {opacity: 0.5;}
