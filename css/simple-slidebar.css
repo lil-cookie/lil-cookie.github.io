@@ -67,7 +67,8 @@
 .sidebar-nav li a {
     display: block;
     text-decoration: none;
-    color: #c0a97a;
+    color: #757575;
+    font-weight: 600;
 }
 
 .sidebar-nav li a:hover {
